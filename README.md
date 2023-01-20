@@ -10,8 +10,6 @@
 
 ### Step 1 : Download SDK tools
 - https://developer.android.com/studio
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
-
 
 ### Step 2 : Unzip folder & Extract platform tools
 
@@ -37,9 +35,8 @@
 
 ### Step 8 : Download appium desktop client
  -  http://appium.io/
- ![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
  -  https://github.com/appium/appium-desk...
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
+
 
 ### Step 9 : Install appium desktop client
 
@@ -48,7 +45,6 @@
 ###	Step 11 : To check appium installation & dependencies:
 - Install appium-doctor
 - https://github.com/appium/appium-doctor
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
 - npm install appium-doctor -g
 - appium-doctor -h
 - appium-doctor --android
