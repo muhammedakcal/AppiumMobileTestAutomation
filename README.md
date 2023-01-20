@@ -1,52 +1,59 @@
-# Prerequisites
+# Appium Mobile Test Automation Project
+
+
+## Prerequisites
 -	Java installed on system
 -	JAVA_HOME is set in environment variables
 -	Command to check : java -version
 -	Connecting mobile devide with the usb cable 
 -	200 MB to 1 GB of free space in your machine
 
-## Step 1 : Download SDK tools
--  https://developer.android.com/studio
-----------------------------------------------------------------------------------
-## Step 2 : Unzip folder & Extract platform tools
-----------------------------------------------------------------------------------
-## Step 3 : Set environment variables
+### Step 1 : Download SDK tools
+- https://developer.android.com/studio
+![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
+
+
+### Step 2 : Unzip folder & Extract platform tools
+
+### Step 3 : Set environment variables
  - ANDROID_HOME = location of sdk folder
  - Path : append path of platform_tools folder
-----------------------------------------------------------------------------------
-## Step 4 : Check command adb devices on command line
-----------------------------------------------------------------------------------
-## Step 5 : Make device ready
+
+### Step 4 : Check command adb devices on command line
+
+### Step 5 : Make device ready
  - enable developer mode
  - make USB Debugging on
-----------------------------------------------------------------------------------
-## Step 6 : Connect device to computer system thorugh USB cable
+
+### Step 6 : Connect device to computer system thorugh USB cable
  - if asked enable USB Debbugging
-----------------------------------------------------------------------------------
-## Step 7 : Run command adb devices
+
+### Step 7 : Run command adb devices
   adb = android debug bridge
  Check your device id displayed
 - Install appium with node.js
 - Install appium with with Appium Desktop Client
 -	Check installation & dependencies (appium-doctor)
-----------------------------------------------------------------------------------
 
-## Step 8 : Download appium desktop client
+### Step 8 : Download appium desktop client
  -  http://appium.io/
+ ![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
  -  https://github.com/appium/appium-desk...
-----------------------------------------------------------------------------------
-## Step 9 : Install appium desktop client
-----------------------------------------------------------------------------------
-## Step 10 : Start appium through appium desktop client
-----------------------------------------------------------------------------------
-##	Step 11 : To check appium installation & dependencies:
+![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
+
+### Step 9 : Install appium desktop client
+
+### Step 10 : Start appium through appium desktop client
+
+###	Step 11 : To check appium installation & dependencies:
 - Install appium-doctor
 - https://github.com/appium/appium-doctor
+![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
 - npm install appium-doctor -g
 - appium-doctor -h
 - appium-doctor --android
-----------------------------------------------------------------------------------
-## Step 12: Create a new connection 
+
+### Step 12: Create a new connection 
 -	Open Appium desktop client
 - Start appium server
 - Create new connection
