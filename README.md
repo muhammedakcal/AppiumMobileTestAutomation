@@ -1,5 +1,3 @@
-# AppiumMobileTestAutomation
-
 # Prerequisites
 
 ⦁	Java installed on system
