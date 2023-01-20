@@ -1,10 +1,9 @@
 # Prerequisites
-
-⦁	Java installed on system
-⦁	JAVA_HOME is set in environment variables
-⦁	Command to check : java -version
-⦁	- Connecting mobile devide with the usb cable 
-⦁	- 200 MB to 1 GB of free space in your machine
+-	Java installed on system
+-	JAVA_HOME is set in environment variables
+-	Command to check : java -version
+-	Connecting mobile devide with the usb cable 
+-	200 MB to 1 GB of free space in your machine
 
 # Step 1 : Download SDK tools
  https://developer.android.com/studio
@@ -12,8 +11,8 @@
 # Step 2 : Unzip folder & Extract platform tools
 ----------------------------------------------------------------------------------
 # Step 3 : Set environment variables
- ANDROID_HOME = location of sdk folder
- Path : append path of platform_tools folder
+ - ANDROID_HOME = location of sdk folder
+ - Path : append path of platform_tools folder
 ----------------------------------------------------------------------------------
 # Step 4 : Check command adb devices on command line
 ----------------------------------------------------------------------------------
